@@ -2,6 +2,10 @@
 
 Feeling sleepy while driving could cause hazardous traffic accident. However, when driving alone on highway or driving over a long period of time, drivers are inclined to feel bored and sleepy.Therefore, we came up with an idea and successfully developed a sleepy detection and alarming system, which could effectively meet this demand.
 
+![205454226-486c2811-a551-45db-bf92-761145e79289](https://user-images.githubusercontent.com/109382325/215797478-0d8448c2-84ac-4cc9-ac9a-365f2e730caf.png)
+![205454245-dccd4cf2-45cd-4ca2-9156-2c6a9316d77f](https://user-images.githubusercontent.com/109382325/215797522-f49b6e73-8ea8-4d1f-b141-97d2e724cd01.png)
+
+
 ## Author
 
 - [@ThisIs-Developer](https://github.com/ThisIs-Developer)
