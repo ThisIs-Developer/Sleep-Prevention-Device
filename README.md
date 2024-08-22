@@ -77,6 +77,6 @@ For further information, please contact the project team at the provided email a
 **Presented at JISTech2K21 by Team Insomnians**
 
 [license-shield]: https://img.shields.io/badge/License-Apache%202.0-red.svg
-[license-url]: https://github.com/iam-baivab/News-Scraping-using-BeautyfulSoup-Selenium-with-Django/blob/main/LICENSE
+[license-url]: https://github.com/ThisIs-Developer/Sleep-Prevention-Device/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/baivabsarkar/
